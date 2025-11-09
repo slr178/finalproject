@@ -1,6 +1,4 @@
 # Final Project - Group #28
-## Project Description:
-This project uses arrest, education, and parking data to reason what is the "best" neighborhood in Pittsburgh.
 
 # Team Name: KTS
 
@@ -10,6 +8,10 @@ This project uses arrest, education, and parking data to reason what is the "bes
  -   kxr2@pitt.edu - Kade Rolfe
 
 # Descriptions/Links to Datasets
+
+## Project Description:
+This project uses arrest, education, and parking data to reason what is the "best" neighborhood in Pittsburgh.
+
 ## Dataset #1 (Sebastian)
 * Dataset Name: Arrest Data
 * Source: City of Pittsburgh Open Data Portal
