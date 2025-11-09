@@ -27,3 +27,10 @@ The dataset includes records of individuals taken into custody by Pittsburgh Pol
 * Description:
 This dataset includes the population of people in each neighborhood and how many of those people are employed, as well as what type of jobs people work.  This dataset was chosen because this shows what neighborhoods are struggling financially, economically, etc.
 >>>>>>> 4c7d03ed0d34c4ce67fa9423667e833b1a4a346c
+=======
+## Dataset #3 (Thomas)
+* Dataset Name: Parking Meters Pittsburgh Parking Authority
+* Source: P City of Pittsburgh GIS Data HUB
+
+* Description:
+The dataset includes xy coordinates for the parking meters in the various neighborhoods across the city of Pittsburgh. The dataset includes: per hour parking rates, hours of operation, location of lot, and max time you may park near different parking meters.
