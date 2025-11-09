@@ -1,4 +1,4 @@
-# finalproject
+# finalproject - Group #28
 # Project Description:
 This project analyzes Pittsburgh Police arrest data to evaluate neighborhood safety and identify trends that contribute to defining the “best” neighborhood in Pittsburgh through a data-driven approach.
 
